@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+.container-content {
+    background-color: darkkhaki;
+}
+
+.li-content {
+    list-style-type: none;
+    color:black;
+    margin: 15px;
+}
+
+.ul-content {
+    border: 2px solid black;
+    display: flex;
+    padding: 2px;
+}
+
+.container-content2 {
+    background-color:darkkhaki;
+}
+
+.li-content2 {
+    color: black;
+    list-style-type: none;
+    padding: 42.5px;
+}
+
+.ul-content2 {
+    border: 2px solid black;
+    display: flex;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;  flex-direction: row;
+    align-items: center;
+}
